@@ -1,18 +1,25 @@
 //
 //  AppDelegate.m
-//  Lecture 1 example
+//  Lecture 1
 //
-//  Created by Timothy Chong on 9/28/13.
+//  Created by Timothy Chong on 9/20/13.
 //  Copyright (c) 2013 Timothy Chong. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import "Animal.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+   
+    Animal * dog = [[Animal alloc]init];
+    dog.name = @"dog";
+    
+    [dog move];
+    [dog reduceLifeSpan:3];
+    
     return YES;
 }
 							

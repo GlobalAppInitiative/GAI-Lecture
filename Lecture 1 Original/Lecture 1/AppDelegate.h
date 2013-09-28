@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  Lecture 1 example
+//  Lecture 1
 //
-//  Created by Timothy Chong on 9/28/13.
+//  Created by Timothy Chong on 9/20/13.
 //  Copyright (c) 2013 Timothy Chong. All rights reserved.
 //
 

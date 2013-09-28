@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Lecture 1 example.xcscheme</key>
+		<key>Lecture 1.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>9DCF192617F73B82008EF8AD</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>9DCF194717F73B83008EF8AD</key>
+		<key>9D65119D17EC8346009EBDBA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
