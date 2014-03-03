@@ -1,0 +1,1072 @@
+TGAI Parse
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-8F5CFEC0E34045829AD815FA.sh
+cProcessPCH /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.pch GAI\ Parse/GAI\ Parse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/NewBookViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/main.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/GAI\ Parse normal i386
+cCopyStringsFile /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/en.lproj/InfoPlist.strings GAI\ Parse/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/Images.xcassets
+cProcessInfoPlistFile /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/Info.plist /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/GAI\ Parse-Info.plist
+cGenerateDSYMFile /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app.dSYM /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/GAI\ Parse
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-031C3877957E4FB2A1EAC8CC.sh
+cTouch /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c0000000052819E510000000000000176
+t1384226385
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523E7A6500000000000003B5
+t1379826277
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267D6D000000000000001A0
+t1382536912
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+c000000005267D6D10000000000090960
+t1382536913
+s592224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+c000000005267D6D10000000000008CC0
+t1382536913
+s36032
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005267D6D300000000009040F0
+t1382536915
+s9453808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005267D6D300000000005838D0
+t1382536915
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005267D6D300000000005B82A0
+t1382536915
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005267D6D30000000000445870
+t1382536915
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005267D6D30000000000355050
+t1382536915
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005267D6D300000000000EC820
+t1382536915
+s968736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005267D6D300000000002F6810
+t1382536915
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005267D6D3000000000004B000
+t1382536915
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005267D6D5000000000088C680
+t1382536917
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005267D6D400000000001BA530
+t1382536916
+s1811760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005267D6D50000000000037620
+t1382536917
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005267D6D600000000004848F0
+t1382536918
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005267D6D500000000001290B0
+t1382536917
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Social.framework/Social
+c000000005267D6D60000000000206A70
+t1382536918
+s2124400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit
+c000000005267D6D5000000000006A870
+t1382536917
+s436336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005267D6D600000000001081B0
+t1382536918
+s1081776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005267D6DA0000000001DB9910
+t1382536922
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005267D6DC00000000002B9F20
+t1382536924
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c00000000523E7A7F0000000000002338
+t1379826303
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c000000005267D6DE000000000008D300
+t1382536926
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c00000000523E7A80000000000038ACB0
+t1379826304
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c000000005267087200000000000141F0
+t1382484082
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c00000000523E7A800000000000013500
+t1379826304
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000523E7A800000000000033BA0
+t1379826304
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000523E7A80000000000001CFB0
+t1379826304
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000523E7A80000000000001B2B0
+t1379826304
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c000000005267D6DE00000000000632B0
+t1382536926
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000523E7A800000000000008880
+t1379826304
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005267D6DE0000000000015080
+t1382536926
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000523E7A8000000000000230E0
+t1379826304
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000523E7A80000000000000E380
+t1379826304
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c00000000523E7A800000000000087200
+t1379826304
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c00000000523E7A8000000000000171A0
+t1379826304
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000523E7A800000000000039C10
+t1379826304
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000523E7A80000000000000B0B0
+t1379826304
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000523E7A800000000000167FE0
+t1379826304
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005267D6DE00000000000106A0
+t1382536926
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005267D6DE000000000001CE40
+t1382536926
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000523E7A800000000000071040
+t1379826304
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005267D6DE0000000000067A10
+t1382536926
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000523E7A80000000000001BAD0
+t1379826304
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c000000005267D6DE0000000000088BA0
+t1382536926
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523E7A870000000000000AC9
+t1379826311
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c000000005267D6F00000000000005004
+t1382536944
+s20484
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/AppDelegate.o
+t1393695580
+s65932
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/GAI Parse.LinkFileList
+c0000000053113829000000000000040B
+t1393637417
+s1035
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/LoginViewController.o
+t1393695580
+s63700
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/MainViewController.o
+t1393695580
+s64408
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/NewBookViewController.o
+t1393695580
+s66416
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/ViewController.o
+t1393637417
+s57904
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/main.o
+t1393637438
+s3656
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Script-031C3877957E4FB2A1EAC8CC.sh
+c0000000053113829000000000000002F
+t1393637417
+s47
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Script-8F5CFEC0E34045829AD815FA.sh
+c00000000531138290000000000000103
+t1393637417
+s259
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/assetcatalog_dependencies.txt
+t1393637487
+s448
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/assetcatalog_generated_info.plist
+t1393637487
+s525
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/PrecompiledHeaders/GAI Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI Parse-Prefix.pch.pch
+t1393637417
+s453532
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app
+t1393695580
+s340
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app.dSYM
+t1393639646
+s102
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/Base.lproj/Main.storyboardc
+t1393639444
+s442
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/GAI Parse
+t1393695580
+s3859680
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/Info.plist
+t1393637488
+s1023
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/PkgInfo
+t1393637488
+s8
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/en.lproj/InfoPlist.strings
+t1393637486
+s42
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/libPods.a
+c00000000530FE4BA00000000003B7290
+t1393550522
+s3895952
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/AppDelegate.h
+c00000000530FE09F000000000000011B
+t1393549471
+s283
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/AppDelegate.m
+c0000000053114EFE0000000000000874
+t1393643262
+s2164
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/Base.lproj/Main.storyboard
+c00000000531140130000000000005035
+t1393639443
+s20533
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/GAI Parse-Info.plist
+c00000000530FE09F00000000000004CD
+t1393549471
+s1229
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/GAI Parse-Prefix.pch
+c00000000530FE3470000000000000170
+t1393550151
+s368
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/Images.xcassets
+c00000000530FE09F0000000000000088
+t1393549471
+s136
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/LoginViewController.h
+c00000000531017E100000000000000E7
+t1393563617
+s231
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/LoginViewController.m
+c00000000531141EA0000000000000793
+t1393639914
+s1939
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.h
+c000000005310230900000000000000EA
+t1393566473
+s234
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.m
+c0000000053114EFE0000000000000AE6
+t1393643262
+s2790
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.h
+c000000005310314200000000000000F0
+t1393570114
+s240
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m
+c000000005311421D00000000000009FD
+t1393639965
+s2557
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/ViewController.h
+c00000000530FE09F00000000000000DD
+t1393549471
+s221
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/ViewController.m
+c000000005310284400000000000004C3
+t1393567812
+s1219
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/en.lproj/InfoPlist.strings
+c00000000530FE09F000000000000002D
+t1393549471
+s45
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/main.m
+c00000000530FE09F0000000000000157
+t1393549471
+s343
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFACL.h
+c00000000530FE17700000000000019F8
+t1393549687
+s6648
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFAnalytics.h
+c00000000530FE1770000000000000ABC
+t1393549687
+s2748
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFAnonymousUtils.h
+c00000000530FE177000000000000094B
+t1393549687
+s2379
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFCloud.h
+c00000000530FE1770000000000000847
+t1393549687
+s2119
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFConstants.h
+c00000000530FE1770000000000001EE5
+t1393549687
+s7909
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFFacebookUtils.h
+c00000000530FE1770000000000002BF1
+t1393549687
+s11249
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFFile.h
+c00000000530FE1770000000000001C46
+t1393549687
+s7238
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFGeoPoint.h
+c00000000530FE1770000000000000A3E
+t1393549687
+s2622
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFImageView.h
+c00000000530FE1770000000000000366
+t1393549687
+s870
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFInstallation.h
+c00000000530FE1770000000000000B43
+t1393549687
+s2883
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFLogInView.h
+c00000000530FE1770000000000000B75
+t1393549687
+s2933
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFLogInViewController.h
+c00000000530FE1770000000000000E55
+t1393549687
+s3669
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFObject.h
+c00000000530FE177000000000000545E
+t1393549687
+s21598
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFProduct.h
+c00000000530FE177000000000000068E
+t1393549687
+s1678
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFProductTableViewController.h
+c00000000530FE177000000000000023A
+t1393549687
+s570
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFPurchase.h
+c00000000530FE1770000000000000A6A
+t1393549687
+s2666
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFPush.h
+c00000000530FE1770000000000004591
+t1393549687
+s17809
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFQuery.h
+c00000000530FE177000000000000526A
+t1393549687
+s21098
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFQueryTableViewController.h
+c00000000530FE177000000000000153A
+t1393549687
+s5434
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFRelation.h
+c00000000530FE17700000000000003A0
+t1393549687
+s928
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFRole.h
+c00000000530FE1770000000000000AE4
+t1393549687
+s2788
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFSignUpView.h
+c00000000530FE17700000000000008C6
+t1393549687
+s2246
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFSignUpViewController.h
+c00000000530FE1770000000000000B96
+t1393549687
+s2966
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFSubclassing.h
+c00000000530FE17700000000000007EE
+t1393549687
+s2030
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFTableViewCell.h
+c00000000530FE1770000000000000299
+t1393549687
+s665
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFTwitterUtils.h
+c00000000530FE1770000000000001FBC
+t1393549687
+s8124
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFUser.h
+c00000000530FE1770000000000003354
+t1393549687
+s13140
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+c00000000530FE17700000000000008B0
+t1393549687
+s2224
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PF_Twitter.h
+c00000000530FE17700000000000005E1
+t1393549687
+s1505
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/Parse.h
+c00000000530FE177000000000000081A
+t1393549687
+s2074
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Parse
+c00000000530FE1770000000001CD6EF4
+t1393549687
+s30240500
+
+N/usr/lib/libSystem.B.dylib
+c0000000052670865000000000000E6D0
+t1382484069
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526708720000000000012A00
+t1382484082
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052670859000000000002E320
+t1382484057
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526708650000000000021860
+t1382484069
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052670871000000000001B620
+t1382484081
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005267087100000000000BD920
+t1382484081
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005267087200000000000141F0
+t1382484082
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052670872000000000000A120
+t1382484082
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000052670872000000000001D550
+t1382484082
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526708710000000000014EE0
+t1382484081
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526708730000000000010380
+t1382484083
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052670873000000000000C4C0
+t1382484083
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005267087200000000000357A0
+t1382484082
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052670872000000000000C070
+t1382484082
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000526708650000000000168C00
+t1382484069
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000526708710000000000010630
+t1382484081
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000052670873000000000001DF10
+t1382484083
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526708650000000000075B00
+t1382484069
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052670865000000000007CC70
+t1382484069
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005267086500000000000766C0
+t1382484069
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000526708720000000000044DC0
+t1382484082
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526708650000000000021FA0
+t1382484069
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000052670872000000000002D900
+t1382484082
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052670872000000000001E570
+t1382484082
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000523CDB16000000000000CC70
+t1379719958
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005267086D000000000000C3F0
+t1382484077
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005267087200000000000199F0
+t1382484082
+s104944
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/AppDelegate.m
+r0
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/LoginViewController.m
+r0
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/MainViewController.m
+r0
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/NewBookViewController.m
+r0
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/ViewController.m
+r0
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesce8c4edc52c2b841^9e0b4fdc52c2b841^---0#1#1#--18"Check dependencies36"2E8EE301-ACC3-44D2-A85F-FA9428726650-
+
+CCompileAssetCatalog /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/Images.xcassets
+s415330286.956357
+e415330287.881654
+r1
+xCompileAssetCatalog
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/LaunchImage-700-568h@2x.png
+o/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/Assets.car
+o/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CompileAssetCatalog DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app GAI\ Parse/Images.xcassets121"CompileAssetCatalog DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app GAI\ Parse/Images.xcassetsd5e9f4ee6fc1b841^e5f0e5ef6fc1b841^-476"/* com.apple.actool.compilation-results *//Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/LaunchImage-700-568h@2x.png/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/Assets.car/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@76"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/Images.xcassets/0000000000000000^1260"CompileAssetCatalog DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app GAI\ Parse/Images.xcassets    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/Images.xcassets36"74D27483-C6B5-4C8E-8283-EB43B1AA3B3B-
+b2F75B531-F9F9-4492-B06D-9AA07D08CA25
+
+CCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415388380.327868
+e415388380.535634
+r1
+xCompileC
+xDerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/AppDelegate.o
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/AppDelegate.m
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/timothychongg/Desktop/GAI Parse/GAI Parse/AppDelegate.m234"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.o GAI\ Parse/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilered0b54dc52c2b841^9a2589dc52c2b841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/AppDelegate.m0000000000000000^4582"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.o GAI\ Parse/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -include /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.dia -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/AppDelegate.m -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.o36"410B99EE-84CB-437E-AAF6-A47C725EBE34-
+b16AE38FC-E776-439E-89C4-54527E6AF5EA
+
+CCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415388380.326934
+e415388380.543609
+r1
+xCompileC
+xDerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/LoginViewController.o
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/LoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/LoginViewController.m
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/LoginViewController.h
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/timothychongg/Desktop/GAI Parse/GAI Parse/LoginViewController.m250"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.o GAI\ Parse/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler08cc53dc52c2b841^392a8bdc52c2b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/LoginViewController.m0000000000000000^4630"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.o GAI\ Parse/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -include /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.d --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.dia -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/LoginViewController.m -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.o36"8938530A-96AD-4C38-8948-2F9EEF1E94F8-
+b16AE38FC-E776-439E-89C4-54527E6AF5EA
+
+CCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415388380.328402
+e415388380.545392
+r1
+xCompileC
+xDerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/MainViewController.o
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.m
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.m248"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.o GAI\ Parse/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerda3a54dc52c2b841^779f8bdc52c2b841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/MainViewController.m0000000000000000^4624"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.o GAI\ Parse/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -include /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.dia -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/MainViewController.m -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.o36"3F90E60D-F417-4BE1-910A-FE7EC75C0D17-
+b16AE38FC-E776-439E-89C4-54527E6AF5EA
+
+CCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/NewBookViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415388380.326674
+e415388380.550197
+r1
+xCompileC
+xDerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/NewBookViewController.o
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m254"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.o GAI\ Parse/NewBookViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler88ba53dc52c2b841^f0db8cdc52c2b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/NewBookViewController.m0000000000000000^4642"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.o GAI\ Parse/NewBookViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -include /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.d --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.dia -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/NewBookViewController.m -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.o36"E904A70C-677D-47CD-9A83-00B213DA9839-
+b16AE38FC-E776-439E-89C4-54527E6AF5EA
+
+CCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415330217.813922
+e415330217.950708
+r1
+xCompileC
+xDerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/ViewController.o
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/ViewController.m
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/timothychongg/Desktop/GAI Parse/GAI Parse/ViewController.m240"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.o GAI\ Parse/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc479d0a96fc1b841^0f62f3a96fc1b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/ViewController.m0000000000000000^4600"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.o GAI\ Parse/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -include /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.dia -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/ViewController.m -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.o36"ABD88D01-9CA7-48C9-A1FA-B8B53FD1B52B-
+b6ED4F5ED-F232-45F5-9354-4165AF0DDDCD
+
+CCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/main.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415330238.561245
+e415330238.603709
+r1
+xCompileC
+xDerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/main.o
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/main.m
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/timothychongg/Desktop/GAI Parse/GAI Parse/main.m220"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/main.o GAI\ Parse/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1dcb8fbe6fc1b841^488c9abe6fc1b841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/main.m0000000000000000^4540"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/main.o GAI\ Parse/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -include /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/main.dia -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/main.m -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/main.o36"FD52FC60-78F8-45EA-BED8-0892B3E7DD1D-
+b0EF7B2A0-6CE4-4BD3-AD94-0B5067835D8B
+
+CCompileStoryboard /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/Base.lproj/Main.storyboard
+s415332243.332244
+e415332244.130154
+r1
+xCompileStoryboard
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/Base.lproj/Main.storyboard
+o/* com.apple.ibtool.document.warnings */
+o/Users/timothychongg/Desktop/GAI Parse/GAI Parse/Base.lproj/Main.storyboard:ZeY-f4-mk5: warning: Segues initiated directly from view controllers must have an identifier for use with -[UIViewController performSegueWithIdentifier:sender:] [9]
+o/Users/timothychongg/Desktop/GAI Parse/GAI Parse/Base.lproj/Main.storyboard:dc0-W0-wH8: warning: Position is ambiguous for "Button - Register". [17]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"CompileStoryboard GAI\ Parse/Base.lproj/Main.storyboard55"CompileStoryboard GAI\ Parse/Base.lproj/Main.storyboarde61f559377c1b841^b152219477c1b841^-422"/* com.apple.ibtool.document.warnings *//Users/timothychongg/Desktop/GAI Parse/GAI Parse/Base.lproj/Main.storyboard:ZeY-f4-mk5: warning: Segues initiated directly from view controllers must have an identifier for use with -[UIViewController performSegueWithIdentifier:sender:]/Users/timothychongg/Desktop/GAI Parse/GAI Parse/Base.lproj/Main.storyboard:dc0-W0-wH8: warning: Position is ambiguous for "Button - Register".2(21%IDEActivityLogMessage2@139"Segues initiated directly from view controllers must have an identifier for use with -[UIViewController performSegueWithIdentifier:sender:]-415332244#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@86"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@46"Position is ambiguous for "Button - Register".-415332244#18446744073709551615#0#-1#-3@86"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#16"Ambiguous Layout--0#0#1#-19%DVTDocumentLocation4@86"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/Base.lproj/Main.storyboard0000000000000000^875"CompileStoryboard GAI\ Parse/Base.lproj/Main.storyboard    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/Base.lproj/Main.storyboardc /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/Base.lproj/Main.storyboard36"CC9DD880-0CA8-437D-9168-F08B657377B5-
+b23894E01-FEDF-4821-9CA6-2E9DE062906B
+
+CCopyStringsFile /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/en.lproj/InfoPlist.strings GAI\ Parse/en.lproj/InfoPlist.strings
+s415330286.955784
+e415330286.965293
+r1
+xCopyStringsFile
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/en.lproj/InfoPlist.strings
+xGAI Parse/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy GAI Parse/en.lproj/InfoPlist.strings155"CopyStringsFile DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/en.lproj/InfoPlist.strings GAI\ Parse/en.lproj/InfoPlist.strings71c6f4ee6fc1b841^2a1ef7ee6fc1b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/en.lproj/InfoPlist.strings0000000000000000^654"CopyStringsFile DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/en.lproj/InfoPlist.strings GAI\ Parse/en.lproj/InfoPlist.strings    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/en.lproj -- GAI\ Parse/en.lproj/InfoPlist.strings36"C89FC32E-C182-4F45-89C0-BD5B50E1BF31-
+b2F75B531-F9F9-4492-B06D-9AA07D08CA25
+
+CGenerateDSYMFile /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app.dSYM /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/GAI\ Parse
+s415388380.818664
+e415388381.001434
+r1
+xGenerateDSYMFile
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app.dSYM
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/GAI Parse
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generate /Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app.dSYM182"GenerateDSYMFile DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app.dSYM DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/GAI\ Parse98a1d1dc52c2b841^a37900dd52c2b841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/timothychongg/Desktop/GAI%20Parse/DerivedData/GAI%20Parse/Build/Products/Debug-iphonesimulator/GAI%20Parse.app.dSYM/0000000000000000^775"GenerateDSYMFile DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app.dSYM DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/GAI\ Parse    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/GAI\ Parse -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app.dSYM36"8A93CBAF-0701-46FC-84A1-56BA8465E168-
+b16AE38FC-E776-439E-89C4-54527E6AF5EA
+
+CLd /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/GAI\ Parse normal i386
+s415388380.552631
+e415388380.816550
+r1
+xLd
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/GAI Parse
+xnormal
+xi386
+d/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/GAI Parse.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/NewBookViewController.o
+d/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/LoginViewController.o
+d/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/ViewController.o
+d/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/AppDelegate.o
+d/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/MainViewController.o
+d/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Parse
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Social.framework/Social
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/libPods.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/GAI Parse100"Ld DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/GAI\ Parse normal i38668918ddc52c2b841^200bd1dc52c2b841^---0#0#1#--1962"Ld DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/GAI\ Parse normal i386    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -filelist /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/GAI\ Parse.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework AudioToolbox -framework CFNetwork -framework CoreGraphics -framework CoreLocation -framework MobileCoreServices -framework Parse -framework QuartzCore -framework Security -framework StoreKit -framework SystemConfiguration -weak_framework Accounts -weak_framework AdSupport -weak_framework Security -weak_framework Social -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/GAI\ Parse_dependency_info.dat -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/GAI\ Parse36"464D5276-D77E-4190-BB66-1D839789B158-
+b16AE38FC-E776-439E-89C4-54527E6AF5EA
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-8F5CFEC0E34045829AD815FA.sh
+s415388380.310415
+e415388380.325243
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Script-8F5CFEC0E34045829AD815FA.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'181"PhaseScriptExecution Check\ Pods\ Manifest.lock DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-8F5CFEC0E34045829AD815FA.sh74ed4fdc52c2b841^854353dc52c2b841^---0#0#1#--423"PhaseScriptExecution Check\ Pods\ Manifest.lock DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-8F5CFEC0E34045829AD815FA.sh    cd "/Users/timothychongg/Desktop/GAI Parse"    /bin/sh -c \"/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-8F5CFEC0E34045829AD815FA.sh\"36"66CE1E1D-ABB8-4CB2-A97C-11F315EB3273-
+b16AE38FC-E776-439E-89C4-54527E6AF5EA
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-031C3877957E4FB2A1EAC8CC.sh
+s415388381.002948
+e415388381.332780
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Script-031C3877957E4FB2A1EAC8CC.sh
+o/Users/timothychongg/Desktop/GAI Parse/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundle
+obuilding file list ... done
+o
+osent 517 bytes  received 20 bytes  1074.00 bytes/sec
+ototal size is 1071435  speedup is 1995.22
+o/* com.apple.actool.compilation-results */
+o/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'176"PhaseScriptExecution Copy\ Pods\ Resources DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-031C3877957E4FB2A1EAC8CC.shf10d01dd52c2b841^773155dd52c2b841^-391"/Users/timothychongg/Desktop/GAI Parse/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundlebuilding file list ... donesent 517 bytes  received 20 bytes  1074.00 bytes/sectotal size is 1071435  speedup is 1995.22/* com.apple.actool.compilation-results *//Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/Assets.car6(21%IDEActivityLogMessage2@100"/Users/timothychongg/Desktop/GAI Parse/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundle-415388381#0#100#-0#-----2@28"building file list ... done-415388381#100#28#-0#-----2@53"sent 517 bytes  received 20 bytes  1074.00 bytes/sec-415388381#129#53#-0#-----2@42"total size is 1071435  speedup is 1995.22-415388381#182#42#-0#-----2@43"/* com.apple.actool.compilation-results */-415388381#224#43#-0#-----2@123"/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/Assets.car-415388381#267#123#-0#-----0#0#1#--418"PhaseScriptExecution Copy\ Pods\ Resources DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-031C3877957E4FB2A1EAC8CC.sh    cd "/Users/timothychongg/Desktop/GAI Parse"    /bin/sh -c \"/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-031C3877957E4FB2A1EAC8CC.sh\"36"355A43DE-9D3A-49B3-A33F-CC79D43A15B5-
+b16AE38FC-E776-439E-89C4-54527E6AF5EA
+
+CProcessInfoPlistFile /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/Info.plist /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/GAI\ Parse-Info.plist
+s415330288.416767
+e415330288.418960
+r1
+xProcessInfoPlistFile
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app/Info.plist
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/GAI Parse-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Process /Users/timothychongg/Desktop/GAI Parse/GAI Parse/GAI Parse-Info.plist139"ProcessInfoPlistFile DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/Info.plist GAI\ Parse/GAI\ Parse-Info.plist93c86af06fc1b841^4a416bf06fc1b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/GAI%20Parse-Info.plist0000000000000000^1007"ProcessInfoPlistFile DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/Info.plist GAI\ Parse/GAI\ Parse-Info.plist    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/GAI\ Parse-Info.plist -genpkginfo /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/assetcatalog_generated_info.plist -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/Info.plist36"E0A77726-2F4F-4638-A95D-840206058FB4-
+b2F75B531-F9F9-4492-B06D-9AA07D08CA25
+
+CProcessPCH /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.pch GAI\ Parse/GAI\ Parse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415330217.667997
+e415330217.812361
+r1
+xProcessPCH
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/PrecompiledHeaders/GAI Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI Parse-Prefix.pch.pch
+xGAI Parse/GAI Parse-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/GAI Parse-Prefix.pch
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/Parse.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFACL.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFAnalytics.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFAnonymousUtils.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFUser.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFConstants.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFObject.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFSubclassing.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFCloud.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFFile.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFGeoPoint.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFQuery.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFRelation.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFRole.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFImageView.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFInstallation.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFLogInViewController.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFLogInView.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFSignUpViewController.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFSignUpView.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFProduct.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFProductTableViewController.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFQueryTableViewController.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFTableViewCell.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFPurchase.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFPush.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFTwitterUtils.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PF_Twitter.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFFacebookUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile GAI Parse/GAI Parse-Prefix.pch246"ProcessPCH DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.pch GAI\ Parse/GAI\ Parse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera01aaba96fc1b841^b5f9cfa96fc1b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/GAI%20Parse-Prefix.pch0000000000000000^4431"ProcessPCH DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.pch GAI\ Parse/GAI\ Parse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.dia -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.d -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/GAI\ Parse-Prefix.pch -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.pch36"85CB55FE-5761-412E-AAA0-7DB90F334EDD-
+b6ED4F5ED-F232-45F5-9354-4165AF0DDDCD
+
+CProcessPCH /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Index/PrecompiledHeaders/GAI\ Parse-Prefix-gjyicvbyolbfjdepapcxbfmmlpsu_ast/GAI\ Parse-Prefix.pch.pch GAI\ Parse/GAI\ Parse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app
+s415332244.460114
+e415332244.463602
+r1
+xTouch
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/GAI Parse.app80"Touch DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app91d5759477c1b841^cdaf769477c1b841^---0#0#1#--461"Touch DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app36"B5ECACC0-B598-4769-86D9-2361018B5807-
+b23894E01-FEDF-4821-9CA6-2E9DE062906B
+

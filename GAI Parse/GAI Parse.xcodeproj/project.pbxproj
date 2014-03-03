@@ -1,0 +1,538 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7291BA2F948A4C058C8806FA /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AE522AD5E834738BDD9DA8C /* libPods.a */; };
+		9D6F595118C0181F0064B869 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D6F595018C0181F0064B869 /* Foundation.framework */; };
+		9D6F595318C0181F0064B869 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D6F595218C0181F0064B869 /* CoreGraphics.framework */; };
+		9D6F595518C0181F0064B869 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D6F595418C0181F0064B869 /* UIKit.framework */; };
+		9D6F595B18C0181F0064B869 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9D6F595918C0181F0064B869 /* InfoPlist.strings */; };
+		9D6F595D18C0181F0064B869 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D6F595C18C0181F0064B869 /* main.m */; };
+		9D6F596118C0181F0064B869 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D6F596018C0181F0064B869 /* AppDelegate.m */; };
+		9D6F596418C0181F0064B869 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D6F596218C0181F0064B869 /* Main.storyboard */; };
+		9D6F596718C0181F0064B869 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D6F596618C0181F0064B869 /* ViewController.m */; };
+		9D6F596918C0181F0064B869 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D6F596818C0181F0064B869 /* Images.xcassets */; };
+		9D6F597018C0181F0064B869 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D6F596F18C0181F0064B869 /* XCTest.framework */; };
+		9D6F597118C0181F0064B869 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D6F595018C0181F0064B869 /* Foundation.framework */; };
+		9D6F597218C0181F0064B869 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D6F595418C0181F0064B869 /* UIKit.framework */; };
+		9D6F597A18C0181F0064B869 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9D6F597818C0181F0064B869 /* InfoPlist.strings */; };
+		9D6F597C18C0181F0064B869 /* GAI_ParseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D6F597B18C0181F0064B869 /* GAI_ParseTests.m */; };
+		9D75AE9E18C04F6200838401 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D75AE9D18C04F6200838401 /* LoginViewController.m */; };
+		9D75AEA118C05A8900838401 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D75AEA018C05A8900838401 /* MainViewController.m */; };
+		9D75AEA418C068C200838401 /* NewBookViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D75AEA318C068C200838401 /* NewBookViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9D6F597318C0181F0064B869 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9D6F594518C0181F0064B869 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9D6F594C18C0181F0064B869;
+			remoteInfo = "GAI Parse";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4AE522AD5E834738BDD9DA8C /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D6F594D18C0181F0064B869 /* GAI Parse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GAI Parse.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D6F595018C0181F0064B869 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		9D6F595218C0181F0064B869 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		9D6F595418C0181F0064B869 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		9D6F595818C0181F0064B869 /* GAI Parse-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GAI Parse-Info.plist"; sourceTree = "<group>"; };
+		9D6F595A18C0181F0064B869 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9D6F595C18C0181F0064B869 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9D6F595E18C0181F0064B869 /* GAI Parse-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GAI Parse-Prefix.pch"; sourceTree = "<group>"; };
+		9D6F595F18C0181F0064B869 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		9D6F596018C0181F0064B869 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		9D6F596318C0181F0064B869 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9D6F596518C0181F0064B869 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		9D6F596618C0181F0064B869 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		9D6F596818C0181F0064B869 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		9D6F596E18C0181F0064B869 /* GAI ParseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GAI ParseTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D6F596F18C0181F0064B869 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		9D6F597718C0181F0064B869 /* GAI ParseTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GAI ParseTests-Info.plist"; sourceTree = "<group>"; };
+		9D6F597918C0181F0064B869 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9D6F597B18C0181F0064B869 /* GAI_ParseTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GAI_ParseTests.m; sourceTree = "<group>"; };
+		9D75AE9C18C04F6200838401 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		9D75AE9D18C04F6200838401 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		9D75AE9F18C05A8900838401 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		9D75AEA018C05A8900838401 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		9D75AEA218C068C200838401 /* NewBookViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewBookViewController.h; sourceTree = "<group>"; };
+		9D75AEA318C068C200838401 /* NewBookViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewBookViewController.m; sourceTree = "<group>"; };
+		DA26219B59F5498C9678219C /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9D6F594A18C0181F0064B869 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D6F595318C0181F0064B869 /* CoreGraphics.framework in Frameworks */,
+				9D6F595518C0181F0064B869 /* UIKit.framework in Frameworks */,
+				9D6F595118C0181F0064B869 /* Foundation.framework in Frameworks */,
+				7291BA2F948A4C058C8806FA /* libPods.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9D6F596B18C0181F0064B869 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D6F597018C0181F0064B869 /* XCTest.framework in Frameworks */,
+				9D6F597218C0181F0064B869 /* UIKit.framework in Frameworks */,
+				9D6F597118C0181F0064B869 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9D6F594418C0181F0064B869 = {
+			isa = PBXGroup;
+			children = (
+				9D6F595618C0181F0064B869 /* GAI Parse */,
+				9D6F597518C0181F0064B869 /* GAI ParseTests */,
+				9D6F594F18C0181F0064B869 /* Frameworks */,
+				9D6F594E18C0181F0064B869 /* Products */,
+				DA26219B59F5498C9678219C /* Pods.xcconfig */,
+			);
+			sourceTree = "<group>";
+		};
+		9D6F594E18C0181F0064B869 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9D6F594D18C0181F0064B869 /* GAI Parse.app */,
+				9D6F596E18C0181F0064B869 /* GAI ParseTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9D6F594F18C0181F0064B869 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9D6F595018C0181F0064B869 /* Foundation.framework */,
+				9D6F595218C0181F0064B869 /* CoreGraphics.framework */,
+				9D6F595418C0181F0064B869 /* UIKit.framework */,
+				9D6F596F18C0181F0064B869 /* XCTest.framework */,
+				4AE522AD5E834738BDD9DA8C /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9D6F595618C0181F0064B869 /* GAI Parse */ = {
+			isa = PBXGroup;
+			children = (
+				9D6F595F18C0181F0064B869 /* AppDelegate.h */,
+				9D6F596018C0181F0064B869 /* AppDelegate.m */,
+				9D6F596218C0181F0064B869 /* Main.storyboard */,
+				9D75AE9C18C04F6200838401 /* LoginViewController.h */,
+				9D75AE9D18C04F6200838401 /* LoginViewController.m */,
+				9D6F596518C0181F0064B869 /* ViewController.h */,
+				9D6F596618C0181F0064B869 /* ViewController.m */,
+				9D75AE9F18C05A8900838401 /* MainViewController.h */,
+				9D75AEA018C05A8900838401 /* MainViewController.m */,
+				9D75AEA218C068C200838401 /* NewBookViewController.h */,
+				9D75AEA318C068C200838401 /* NewBookViewController.m */,
+				9D6F596818C0181F0064B869 /* Images.xcassets */,
+				9D6F595718C0181F0064B869 /* Supporting Files */,
+			);
+			path = "GAI Parse";
+			sourceTree = "<group>";
+		};
+		9D6F595718C0181F0064B869 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9D6F595818C0181F0064B869 /* GAI Parse-Info.plist */,
+				9D6F595918C0181F0064B869 /* InfoPlist.strings */,
+				9D6F595C18C0181F0064B869 /* main.m */,
+				9D6F595E18C0181F0064B869 /* GAI Parse-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9D6F597518C0181F0064B869 /* GAI ParseTests */ = {
+			isa = PBXGroup;
+			children = (
+				9D6F597B18C0181F0064B869 /* GAI_ParseTests.m */,
+				9D6F597618C0181F0064B869 /* Supporting Files */,
+			);
+			path = "GAI ParseTests";
+			sourceTree = "<group>";
+		};
+		9D6F597618C0181F0064B869 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9D6F597718C0181F0064B869 /* GAI ParseTests-Info.plist */,
+				9D6F597818C0181F0064B869 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9D6F594C18C0181F0064B869 /* GAI Parse */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9D6F597F18C0181F0064B869 /* Build configuration list for PBXNativeTarget "GAI Parse" */;
+			buildPhases = (
+				8F5CFEC0E34045829AD815FA /* Check Pods Manifest.lock */,
+				9D6F594918C0181F0064B869 /* Sources */,
+				9D6F594A18C0181F0064B869 /* Frameworks */,
+				9D6F594B18C0181F0064B869 /* Resources */,
+				031C3877957E4FB2A1EAC8CC /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "GAI Parse";
+			productName = "GAI Parse";
+			productReference = 9D6F594D18C0181F0064B869 /* GAI Parse.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9D6F596D18C0181F0064B869 /* GAI ParseTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9D6F598218C0181F0064B869 /* Build configuration list for PBXNativeTarget "GAI ParseTests" */;
+			buildPhases = (
+				9D6F596A18C0181F0064B869 /* Sources */,
+				9D6F596B18C0181F0064B869 /* Frameworks */,
+				9D6F596C18C0181F0064B869 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9D6F597418C0181F0064B869 /* PBXTargetDependency */,
+			);
+			name = "GAI ParseTests";
+			productName = "GAI ParseTests";
+			productReference = 9D6F596E18C0181F0064B869 /* GAI ParseTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9D6F594518C0181F0064B869 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = "Timothy Chong";
+				TargetAttributes = {
+					9D6F596D18C0181F0064B869 = {
+						TestTargetID = 9D6F594C18C0181F0064B869;
+					};
+				};
+			};
+			buildConfigurationList = 9D6F594818C0181F0064B869 /* Build configuration list for PBXProject "GAI Parse" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9D6F594418C0181F0064B869;
+			productRefGroup = 9D6F594E18C0181F0064B869 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9D6F594C18C0181F0064B869 /* GAI Parse */,
+				9D6F596D18C0181F0064B869 /* GAI ParseTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9D6F594B18C0181F0064B869 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D6F596918C0181F0064B869 /* Images.xcassets in Resources */,
+				9D6F595B18C0181F0064B869 /* InfoPlist.strings in Resources */,
+				9D6F596418C0181F0064B869 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9D6F596C18C0181F0064B869 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D6F597A18C0181F0064B869 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		031C3877957E4FB2A1EAC8CC /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8F5CFEC0E34045829AD815FA /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9D6F594918C0181F0064B869 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D75AEA418C068C200838401 /* NewBookViewController.m in Sources */,
+				9D75AE9E18C04F6200838401 /* LoginViewController.m in Sources */,
+				9D6F596718C0181F0064B869 /* ViewController.m in Sources */,
+				9D6F596118C0181F0064B869 /* AppDelegate.m in Sources */,
+				9D75AEA118C05A8900838401 /* MainViewController.m in Sources */,
+				9D6F595D18C0181F0064B869 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9D6F596A18C0181F0064B869 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D6F597C18C0181F0064B869 /* GAI_ParseTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9D6F597418C0181F0064B869 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9D6F594C18C0181F0064B869 /* GAI Parse */;
+			targetProxy = 9D6F597318C0181F0064B869 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		9D6F595918C0181F0064B869 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9D6F595A18C0181F0064B869 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		9D6F596218C0181F0064B869 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9D6F596318C0181F0064B869 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		9D6F597818C0181F0064B869 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9D6F597918C0181F0064B869 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9D6F597D18C0181F0064B869 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		9D6F597E18C0181F0064B869 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9D6F598018C0181F0064B869 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DA26219B59F5498C9678219C /* Pods.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GAI Parse/GAI Parse-Prefix.pch";
+				INFOPLIST_FILE = "GAI Parse/GAI Parse-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		9D6F598118C0181F0064B869 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DA26219B59F5498C9678219C /* Pods.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GAI Parse/GAI Parse-Prefix.pch";
+				INFOPLIST_FILE = "GAI Parse/GAI Parse-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		9D6F598318C0181F0064B869 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/GAI Parse.app/GAI Parse";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GAI Parse/GAI Parse-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "GAI ParseTests/GAI ParseTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		9D6F598418C0181F0064B869 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/GAI Parse.app/GAI Parse";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GAI Parse/GAI Parse-Prefix.pch";
+				INFOPLIST_FILE = "GAI ParseTests/GAI ParseTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9D6F594818C0181F0064B869 /* Build configuration list for PBXProject "GAI Parse" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9D6F597D18C0181F0064B869 /* Debug */,
+				9D6F597E18C0181F0064B869 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9D6F597F18C0181F0064B869 /* Build configuration list for PBXNativeTarget "GAI Parse" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9D6F598018C0181F0064B869 /* Debug */,
+				9D6F598118C0181F0064B869 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9D6F598218C0181F0064B869 /* Build configuration list for PBXNativeTarget "GAI ParseTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9D6F598318C0181F0064B869 /* Debug */,
+				9D6F598418C0181F0064B869 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9D6F594518C0181F0064B869 /* Project object */;
+}

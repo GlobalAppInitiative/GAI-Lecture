@@ -1,0 +1,38 @@
+Contents of /Users/timothychongg/Desktop/GAI Parse/GAI Parse/GAI Parse-Prefix.pch
+-x
+objective-c
+-arch
+i386
+-std=gnu99
+-fobjc-arc
+-fmodules
+-fmodules-cache-path=/Users/timothychongg/Desktop/GAI Parse/DerivedData/ModuleCache
+-fpascal-strings
+-O0
+-DDEBUG=1
+-DCOCOAPODS=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+-fexceptions
+-fasm-blocks
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-mios-simulator-version-min=7.0
+-iquote
+-iquote
+-I/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/include
+-I/Users/timothychongg/Desktop/GAI Parse/Pods/Headers
+-I/Users/timothychongg/Desktop/GAI Parse/Pods/Headers/Facebook-iOS-SDK
+-I/Users/timothychongg/Desktop/GAI Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK
+-I/Users/timothychongg/Desktop/GAI Parse/Pods/Headers/Parse
+-F/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator
+-F/Users/timothychongg/Desktop/GAI Parse/Pods/Parse
+-isystem/Users/timothychongg/Desktop/GAI Parse/Pods/Headers
+-isystem/Users/timothychongg/Desktop/GAI Parse/Pods/Headers/Facebook-iOS-SDK
+-isystem/Users/timothychongg/Desktop/GAI Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK
+-isystem/Users/timothychongg/Desktop/GAI Parse/Pods/Headers/Parse
+i386-apple-darwin13.0.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)"
+SDK_PRODUCT_BUILD_VERSION=11B508
+11B508

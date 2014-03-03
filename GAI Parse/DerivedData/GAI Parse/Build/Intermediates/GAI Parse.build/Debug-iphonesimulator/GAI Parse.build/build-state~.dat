@@ -1,0 +1,285 @@
+TGAI Parse
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-8F5CFEC0E34045829AD815FA.sh
+cProcessPCH /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.pch GAI\ Parse/GAI\ Parse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/NewBookViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523E7A6500000000000003B5
+t1379826277
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267D6D000000000000001A0
+t1382536912
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523E7A870000000000000AC9
+t1379826311
+s2761
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/LoginViewController.o
+t2
+s0
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/NewBookViewController.o
+t2
+s0
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Script-8F5CFEC0E34045829AD815FA.sh
+c00000000531138290000000000000103
+t1393637417
+s259
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/PrecompiledHeaders/GAI Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI Parse-Prefix.pch.pch
+t1393637417
+s453532
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/AppDelegate.m
+c0000000053103B5F0000000000000A4B
+t1393572703
+s2635
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/GAI Parse-Prefix.pch
+c00000000530FE3470000000000000170
+t1393550151
+s368
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/LoginViewController.m
+c000000005310283F000000000000077E
+t1393567807
+s1918
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.m
+c000000005310302D0000000000000FDF
+t1393569837
+s4063
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m
+c00000000531138250000000000000FD5
+t1393637413
+s4053
+
+N/Users/timothychongg/Desktop/GAI Parse/GAI Parse/ViewController.m
+c000000005310284400000000000004C3
+t1393567812
+s1219
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/AppDelegate.m
+r0
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/LoginViewController.m
+r0
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/MainViewController.m
+r0
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/NewBookViewController.m
+r0
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/ViewController.m
+r0
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies81cf9ba96fc1b841^399aa7a96fc1b841^---0#1#1#--18"Check dependencies36"AC356F23-B1E2-47F9-8A65-C597B5EB93BF-
+
+CCompileAssetCatalog /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/Images.xcassets
+r0
+
+CCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415330217.814492
+e415330217.944491
+r1
+xCompileC
+xDerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/AppDelegate.o
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/AppDelegate.m
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/timothychongg/Desktop/GAI Parse/GAI Parse/AppDelegate.m234"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.o GAI\ Parse/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5dbfd0a96fc1b841^5ed9f1a96fc1b841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/AppDelegate.m0000000000000000^4582"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.o GAI\ Parse/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -include /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.dia -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/AppDelegate.m -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/AppDelegate.o36"A37A6DF0-5C8F-48F6-81F1-98BA9386B66D-
+b6ED4F5ED-F232-45F5-9354-4165AF0DDDCD
+
+CCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415330217.813517
+e415330217.948693
+r1
+xCompileC
+xDerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/LoginViewController.o
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/LoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/LoginViewController.m
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/LoginViewController.h
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/timothychongg/Desktop/GAI Parse/GAI Parse/LoginViewController.m250"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.o GAI\ Parse/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercd5cd0a96fc1b841^08e4f2a96fc1b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/LoginViewController.m0000000000000000^4630"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.o GAI\ Parse/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -include /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.d --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.dia -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/LoginViewController.m -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/LoginViewController.o36"47B1C562-0DF3-4946-ACC0-695259EC0573-
+b6ED4F5ED-F232-45F5-9354-4165AF0DDDCD
+
+CCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415330217.868858
+e415330217.970762
+r1
+xCompileC
+xDerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/MainViewController.o
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.m
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/timothychongg/Desktop/GAI Parse/GAI Parse/MainViewController.m248"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.o GAI\ Parse/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdf8cdea96fc1b841^5184f8a96fc1b841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/MainViewController.m0000000000000000^4624"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.o GAI\ Parse/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -include /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.dia -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/MainViewController.m -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/MainViewController.o36"27254958-F4FA-4245-A214-AF39CC008C42-
+b6ED4F5ED-F232-45F5-9354-4165AF0DDDCD
+
+CCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/NewBookViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415330217.813235
+e415330217.868598
+r0
+xCompileC
+xDerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/NewBookViewController.o
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.h
+o/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m:66:2: warning: Potentially incomplete method implementation. [-W#warnings]
+o#warning Potentially incomplete method implementation.
+o ^
+o/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m:73:2: warning: Incomplete method implementation. [-W#warnings]
+o#warning Incomplete method implementation.
+o ^
+oerror: property's synthesized getter follows Cocoa naming convention for returning 'owned' objects
+o/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m:13:33: note: property declared here
+o@property (nonatomic) NSArray * newBooks;
+o                                ^
+o2 warnings and 1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m254"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.o GAI\ Parse/NewBookViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler014dd0a96fc1b841^7495dea96fc1b841^-706"/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m:66:2: warning: Potentially incomplete method implementation. [-W#warnings]#warning Potentially incomplete method implementation. ^/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m:73:2: warning: Incomplete method implementation. [-W#warnings]#warning Incomplete method implementation. ^error: property's synthesized getter follows Cocoa naming convention for returning 'owned' objects/Users/timothychongg/Desktop/GAI Parse/GAI Parse/NewBookViewController.m:13:33: note: property declared here@property (nonatomic) NSArray * newBooks;                                ^2 warnings and 1 error generated.3(36%IDEClangDiagnosticActivityLogMessage2@45"Potentially incomplete method implementation.-415330217#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@83"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/NewBookViewController.m0000000000000000^65#1#65#1#1756#0#18"#warning Directive--2@33"Incomplete method implementation.-415330217#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/NewBookViewController.m0000000000000000^72#1#72#1#1957#0#18"#warning Directive--2@91"Property's synthesized getter follows Cocoa naming convention for returning 'owned' objects-415330217#18446744073709551615#0#1(2@22"Property declared here-415330217#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/NewBookViewController.m0000000000000000^12#32#12#32#256#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic-20"Apple LLVM 5.0 Error--0#0#1#-19%DVTDocumentLocation4@83"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/NewBookViewController.m0000000000000000^4642"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.o GAI\ Parse/NewBookViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -include /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.d --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.dia -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/NewBookViewController.m -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/NewBookViewController.o36"BCCD6A5A-6825-4EBF-9351-C34D14A711CB-
+b6ED4F5ED-F232-45F5-9354-4165AF0DDDCD
+
+CCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415330217.813922
+e415330217.950708
+r1
+xCompileC
+xDerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Objects-normal/i386/ViewController.o
+x/Users/timothychongg/Desktop/GAI Parse/GAI Parse/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/ViewController.m
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/timothychongg/Desktop/GAI Parse/GAI Parse/ViewController.m240"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.o GAI\ Parse/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc479d0a96fc1b841^0f62f3a96fc1b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/ViewController.m0000000000000000^4600"CompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.o GAI\ Parse/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -include /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.dia -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/ViewController.m -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/ViewController.o36"ABD88D01-9CA7-48C9-A1FA-B8B53FD1B52B-
+b6ED4F5ED-F232-45F5-9354-4165AF0DDDCD
+
+CCompileC DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Objects-normal/i386/main.o /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/en.lproj/InfoPlist.strings GAI\ Parse/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app.dSYM /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/GAI\ Parse
+r0
+
+CLd /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/GAI\ Parse normal i386
+r0
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-8F5CFEC0E34045829AD815FA.sh
+s415330217.656020
+e415330217.667343
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/GAI Parse.build/Debug-iphonesimulator/GAI Parse.build/Script-8F5CFEC0E34045829AD815FA.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'181"PhaseScriptExecution Check\ Pods\ Manifest.lock DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-8F5CFEC0E34045829AD815FA.sh4f3fa8a96fc1b841^d8d7aaa96fc1b841^---0#0#1#--423"PhaseScriptExecution Check\ Pods\ Manifest.lock DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-8F5CFEC0E34045829AD815FA.sh    cd "/Users/timothychongg/Desktop/GAI Parse"    /bin/sh -c \"/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-8F5CFEC0E34045829AD815FA.sh\"36"C76EA1DA-6A96-4A00-AEA1-629B1C22AD87-
+b6ED4F5ED-F232-45F5-9354-4165AF0DDDCD
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/Script-031C3877957E4FB2A1EAC8CC.sh
+r0
+
+CProcessInfoPlistFile /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app/Info.plist /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/GAI\ Parse-Info.plist
+r0
+
+CProcessPCH /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.pch GAI\ Parse/GAI\ Parse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415330217.667997
+e415330217.812361
+r1
+xProcessPCH
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/PrecompiledHeaders/GAI Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI Parse-Prefix.pch.pch
+xGAI Parse/GAI Parse-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/GAI Parse/GAI Parse-Prefix.pch
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/Parse.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFACL.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFAnalytics.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFAnonymousUtils.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFUser.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFConstants.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFObject.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFSubclassing.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFCloud.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFFile.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFGeoPoint.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFQuery.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFRelation.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFRole.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFImageView.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFInstallation.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFLogInViewController.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFLogInView.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFSignUpViewController.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFSignUpView.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFProduct.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFProductTableViewController.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFQueryTableViewController.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFTableViewCell.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFPurchase.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFPush.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFTwitterUtils.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PF_Twitter.h
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Parse/Parse.framework/Headers/PFFacebookUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile GAI Parse/GAI Parse-Prefix.pch246"ProcessPCH DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.pch GAI\ Parse/GAI\ Parse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera01aaba96fc1b841^b5f9cfa96fc1b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/timothychongg/Desktop/GAI%20Parse/GAI%20Parse/GAI%20Parse-Prefix.pch0000000000000000^4431"ProcessPCH DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.pch GAI\ Parse/GAI\ Parse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/GAI\ Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/GAI\ Parse.build/Debug-iphonesimulator/GAI\ Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.dia -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.d -c /Users/timothychongg/Desktop/GAI\ Parse/GAI\ Parse/GAI\ Parse-Prefix.pch -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/GAI\ Parse-Prefix-cphwenutixwejeeapicypxopbnsb/GAI\ Parse-Prefix.pch.pch36"85CB55FE-5761-412E-AAA0-7DB90F334EDD-
+b6ED4F5ED-F232-45F5-9354-4165AF0DDDCD
+
+CProcessPCH /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Index/PrecompiledHeaders/GAI\ Parse-Prefix-gjyicvbyolbfjdepapcxbfmmlpsu_ast/GAI\ Parse-Prefix.pch.pch GAI\ Parse/GAI\ Parse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/GAI\ Parse.app
+r0
+

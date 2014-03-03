@@ -1,0 +1,1 @@
+Please open GAI Parse.xcworkspace, not GAI Parse.xcodeproj

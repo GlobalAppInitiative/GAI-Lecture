@@ -1,0 +1,157 @@
+TPods-Parse
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-blsdnkyfviqbtmedaubbpnrvwpqi/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o /Users/timothychongg/Desktop/GAI\ Parse/Pods/Pods-Parse-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005267D6BD0000000000CF72E0
+t1382536893
+s13595360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005267D6BC0000000000630EB0
+t1382536892
+s6491824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005267D6BC00000000004D63C0
+t1382536892
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005267D6BC0000000000146100
+t1382536892
+s1335552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005267D6BE0000000000A92BC0
+t1382536894
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005267D6BE0000000000210C80
+t1382536894
+s2165888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005267D6BF0000000000640E80
+t1382536895
+s6557312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005267D6BE000000000017E0C0
+t1382536894
+s1564864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit
+c000000005267D6BE0000000000091230
+t1382536894
+s594480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005267D6BF00000000001A2270
+t1382536895
+s1712752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c0000000052819E510000000000000176
+t1384226385
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523E7A6500000000000003B5
+t1379826277
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267D6D000000000000001A0
+t1382536912
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523E7A870000000000000AC9
+t1379826311
+s2761
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o
+t1393550522
+s3372
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse.LinkFileList
+c00000000530FE4BA00000000000000AA
+t1393550522
+s170
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-blsdnkyfviqbtmedaubbpnrvwpqi/Pods-Parse-prefix.pch.pch
+t1393550522
+s114860
+
+N/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/libPods-Parse.a
+t2
+s0
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Pods-Parse-dummy.m
+c00000000530FE178000000000000007C
+t1393549688
+s124
+
+N/Users/timothychongg/Desktop/GAI Parse/Pods/Pods-Parse-prefix.pch
+c00000000530FE178000000000000004D
+t1393549688
+s77
+
+CBuild AST from /Users/timothychongg/Desktop/GAI\ Parse/Pods/Pods-Parse-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies42d1043a1cc0b841^9085083a1cc0b841^---0#1#1#--18"Check dependencies36"95A5411B-4EB2-42DC-9E3B-A6FF70BE7E38-
+
+CCompileC /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o /Users/timothychongg/Desktop/GAI\ Parse/Pods/Pods-Parse-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415243322.073551
+e415243322.108129
+r1
+xCompileC
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o
+x/Users/timothychongg/Desktop/GAI Parse/Pods/Pods-Parse-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Pods-Parse-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/timothychongg/Desktop/GAI Parse/Pods/Pods-Parse-dummy.m267"CompileC /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o Pods-Parse-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilereaea123a1cc0b841^64af1b3a1cc0b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/timothychongg/Desktop/GAI%20Parse/Pods/Pods-Parse-dummy.m0000000000000000^4374"CompileC /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o Pods-Parse-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse/Pods"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/BuildHeaders -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/BuildHeaders/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse -include /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-blsdnkyfviqbtmedaubbpnrvwpqi/Pods-Parse-prefix.pch -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.d --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.dia -c /Users/timothychongg/Desktop/GAI\ Parse/Pods/Pods-Parse-dummy.m -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse-dummy.o36"B70406A8-7D99-42A4-B082-CD4BF1749383-
+b2DA9A39C-C625-405A-BC75-E3D5428FF1B6
+
+CLibtool /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal i386
+s415243322.111920
+e415243322.118727
+r1
+xLibtool
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Products/Debug-iphonesimulator/libPods-Parse.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Libtool /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal i386135"Libtool /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal i38690bf1c3a1cc0b841^876a1e3a1cc0b841^---0#0#1#--1323"Libtool /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/libPods-Parse.a normal i386    cd "/Users/timothychongg/Desktop/GAI Parse/Pods"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -filelist /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Objects-normal/i386/Pods-Parse.LinkFileList -framework AudioToolbox -framework CFNetwork -framework CoreGraphics -framework CoreLocation -framework Foundation -framework MobileCoreServices -framework QuartzCore -framework Security -framework StoreKit -framework SystemConfiguration -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/libPods-Parse.a36"385752FA-825A-4516-8CD4-2EEFF5926D78-
+b2DA9A39C-C625-405A-BC75-E3D5428FF1B6
+
+CProcessPCH /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-blsdnkyfviqbtmedaubbpnrvwpqi/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415243322.033898
+e415243322.072844
+r1
+xProcessPCH
+x/Users/timothychongg/Desktop/GAI Parse/DerivedData/GAI Parse/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-blsdnkyfviqbtmedaubbpnrvwpqi/Pods-Parse-prefix.pch.pch
+xPods-Parse-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Pods-Parse-prefix.pch
+d/Users/timothychongg/Desktop/GAI Parse/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile Pods-Parse-prefix.pch275"ProcessPCH /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-blsdnkyfviqbtmedaubbpnrvwpqi/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler36cc083a1cc0b841^a06d153a1cc0b841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/timothychongg/Desktop/GAI%20Parse/Pods/Pods-Parse-prefix.pch0000000000000000^4217"ProcessPCH /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-blsdnkyfviqbtmedaubbpnrvwpqi/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/timothychongg/Desktop/GAI Parse/Pods"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-generated-files.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-own-target-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-all-target-headers.hmap -iquote /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/Pods-Parse-project-headers.hmap -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator/include -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/BuildHeaders -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/BuildHeaders/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/timothychongg/Desktop/GAI\ Parse/Pods/Headers/Parse -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/DerivedSources/i386 -I/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Parse.build/DerivedSources -F/Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Products/Debug-iphonesimulator -F/Users/timothychongg/Desktop/GAI\ Parse/Pods/Parse --serialize-diagnostics /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-blsdnkyfviqbtmedaubbpnrvwpqi/Pods-Parse-prefix.pch.dia -MMD -MT dependencies -MF /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-blsdnkyfviqbtmedaubbpnrvwpqi/Pods-Parse-prefix.pch.d -c /Users/timothychongg/Desktop/GAI\ Parse/Pods/Pods-Parse-prefix.pch -o /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Build/Intermediates/PrecompiledHeaders/Pods-Parse-prefix-blsdnkyfviqbtmedaubbpnrvwpqi/Pods-Parse-prefix.pch.pch36"EC6DD78F-B0AC-4594-B2D9-BC9F7BCF771F-
+b2DA9A39C-C625-405A-BC75-E3D5428FF1B6
+
+CProcessPCH /Users/timothychongg/Desktop/GAI\ Parse/DerivedData/GAI\ Parse/Index/PrecompiledHeaders/Pods-Parse-prefix-gsuoczifoigasvacatupzqhtejef_ast/Pods-Parse-prefix.pch.pch Pods-Parse-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
